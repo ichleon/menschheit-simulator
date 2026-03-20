@@ -96,11 +96,11 @@ Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Siehe `LICENSE` für De
 
 ## Beiträge
 
-Beiträge sind willkommen! Bitte erstellen Sie einen Pull-Request oder melden Sie Issues auf der GitHub-Seite.
+Beiträge sind willkommen! Bitte erstellen Sie einen Pull-Request oder melden Sie Issues als kommentar
 
 ## Kontakt
 
-Für Fragen oder Feedback: [Ihre E-Mail oder GitHub-Handle hier einfügen].
+Für Fragen oder Feedback einen kommentar
 
 ---
 

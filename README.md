@@ -92,7 +92,7 @@ python analyse.py
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Siehe `LICENSE` für Details (falls vorhanden).
+Dieses Projekt ist unter der MIT-Lizenz veröffentlicht. Siehe `LICENSE` für Details.
 
 ## Beiträge
 
